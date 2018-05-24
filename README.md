@@ -9,4 +9,12 @@ Short-Term Functionality Goals:
 </ul>
 
 Long-Term Features to Add Once Basic Functionality Implemented:
-
+<ul>
+    <li>style/formatting</li>
+    <li>users can change font/size/color/other aspects of text entries</li>
+    <li>users can make picture entries</li>
+    <li>users can draw entries</li>
+    <li>users can create accounts</li>
+    <li>users can browse entries they created</li>
+    <li>users can edit/delete entries they created</li>
+</ul>
