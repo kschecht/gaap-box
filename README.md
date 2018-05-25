@@ -2,7 +2,8 @@
 the sacred Jedi texts will no longer be erased from the archive memory
 
 Short-Term Functionality Goals:
-<div><strong>TOP PRIORITY: Need to find a free way to host an SQL database online, or any other way to store box entries for all users</strong></div>
+<div><strong>TOP PRIORITY: Need to find a free way to host an SQL database online, or any other way to store box entries for all users</strong><br>
+<em>One option used before: 000webhost, free tier is kinda limited but should suffice for our purposes (at least initially)</div>
 <ul>
     <li>create text entries</li>
     <li>retrieve text entries</li>
