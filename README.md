@@ -11,6 +11,7 @@ Short-Term Functionality Goals:
 Long-Term Features to Add Once Basic Functionality Implemented:
 <ul>
     <li>style/formatting of web pages</li>
+    <li>users can make multiline text entries</li>
     <li>users can change font/size/color/other aspects of text entries</li>
     <li>users can make picture entries</li>
     <li>users can draw entries</li>
