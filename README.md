@@ -7,6 +7,7 @@ Short-Term Functionality Goals:
     <li>create text entries</li>
     <li>retrieve text entries</li>
     <li>use an SQL (or MySQL or NoSQL idk) database to store entries</li>
+    <li>sanitize text input</li>
 </ul>
 
 Long-Term Features to Add Once Basic Functionality Implemented:
