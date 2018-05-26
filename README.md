@@ -7,7 +7,13 @@ Short-Term Functionality Goals:
 <ul>
     <li>create text entries</li>
     <li>retrieve text entries</li>
-    <li>use an SQL (or MySQL or NoSQL idk) database to store entries</li>
+    <li>use an SQL (or MySQL or NoSQL idk) database to store entries
+        <ul>
+            <li>Format of SQL Table: </li> 
+            <li>Name: EntryTable</li>
+            <li><table><th><tr>EntryID</tr></th><th><tr>EntryContent</tr></th><th><tr>UserID <em>(will be null for now)        </em></tr></th></table></li>
+        </ul>
+    </li>
     <li>sanitize text input</li>
 </ul>
 
