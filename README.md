@@ -11,7 +11,7 @@ Short-Term Functionality Goals:
         <ul>
             <li>Format of SQL Table: </li> 
             <li>Name: EntryTable</li>
-            <li><table><th><td>EntryID</td></th><th><td>EntryContent</td></th><th><td>UserID <em>(will be null for now)        </em></td></th></table></li>
+            <li><table><th><td>EntryID</td><td>EntryContent</td><td>UserID <em>(will be null for now)</em></td></th><tr><td> </td><td> </td><td> </td></tr></table></li>
         </ul>
     </li>
     <li>sanitize text input</li>
